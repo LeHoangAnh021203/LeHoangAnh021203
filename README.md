@@ -3,10 +3,6 @@ My name is Le Hoang Anh. I am a Frontend Developer. Nice to meet you and hopeful
 
 ![HoangAnh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeHoangAnh021203&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/LeHoanghAnh021203/Cart-purchase/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeHoangAnh021203&repo=Cart-purchase&theme=radical" />
-</a>    
 <a href="https://github.com/LeHoangAnh021203/Disney/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeHoangAnh021203&repo=Disney&theme=merko" />
