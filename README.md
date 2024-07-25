@@ -16,9 +16,9 @@ My name is Le Hoang Anh. I am a Frontend Developer. Nice to meet you and hopeful
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeHoangAnh021203&repo=FloralFantasy&theme=gruvbox" />
 </a>    
-<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
+<a href="https://github.com/LeHoangAnh021203/Fresher-Academy-Management-System/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeHoangAnh021203&repo=Fresher-Academy-Management-System&theme=dark" />
 </a>
 
 <a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
