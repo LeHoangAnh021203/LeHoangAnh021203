@@ -21,11 +21,11 @@ My name is Le Hoang Anh. I am a Frontend Developer. Nice to meet you and hopeful
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeHoangAnh021203&repo=Fresher-Academy-Management-System&theme=dark" />
 </a>
 
-<a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
+<a href="https://github.com/LeHoangAnh021203/SufyStyles/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeHoangAnh021203&repo=SufyStyles&theme=onedark" />
 </a>    
-<a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/">
+<!-- <a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
 </a>
@@ -82,4 +82,4 @@ My name is Le Hoang Anh. I am a Frontend Developer. Nice to meet you and hopeful
 <a href="https://github.com/uvipen/Very-deep-cnn-tensorflow/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
-</a>
+</a> -->
