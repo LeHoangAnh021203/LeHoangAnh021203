@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Le Hoang Anh. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+My name is Le Hoang Anh. I am a Frontend Developer. Nice to meet you and hopefully you can give me new opportunities to continuously upgrade myself then create positive values ​​for you.<br>
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![HoangAnh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeHoangAnh021203&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
