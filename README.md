@@ -26,4 +26,8 @@ My name is Le Hoang Anh. I am a Frontend Developer. Nice to meet you and hopeful
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeHoangAnh021203&repo=Note_App&theme=merko" />
 </a>
+<a href="https://github.com/LeHoangAnh021203/SufyStyles_App/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeHoangAnh021203&repo=SufyStyles_App&theme=pink" />
+</a> 
 
